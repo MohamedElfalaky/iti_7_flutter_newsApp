@@ -1,0 +1,12 @@
+
+
+when you call an api :
+1- Create Model
+the model has a function named: fromJson();
+turn JSON to dart Object.
+
+
+2- Create Repository
+the repo is the class where which we call the API.
+
+3- Manage state 
